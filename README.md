@@ -1,6 +1,8 @@
 # Manual de gestión de usuarios en Linux
 
-Este repositorio contiene un **manual práctico** sobre la creación, visualización, modificación y eliminación de usuarios en servidores Ubuntu.  
+Después de completar el Certificado de Profesionalidad en Seguridad Informática (IFCT0109), he desarrollado un creciente interés por el mundo de la administración de sistemas, especialmente en entornos Linux y Ubuntu Server.
+
+Como parte de mi práctica y consolidación de conocimientos, he elaborado un **manual práctico** sobre la creación, visualización, modificación y eliminación de usuarios en servidores Ubuntu.  
 Está diseñado para servir como guía de referencia tanto para administradores principiantes como para quienes deseen repasar comandos esenciales de gestión de cuentas de usuario.
 
 ---
